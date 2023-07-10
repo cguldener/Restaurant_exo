@@ -1,3 +1,3 @@
 package domain
 
-case class Clients()
+case class Clients(Nom : String, Prenom : String, Age : Int)

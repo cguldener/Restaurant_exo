@@ -1,3 +1,3 @@
 package domain
 
-case class Menu()
+case class Menu(Menu: String, Price : Int)
